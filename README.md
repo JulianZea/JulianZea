@@ -65,7 +65,7 @@
 <a href="https://www.youtube.com/watch?v=3bY6BlFgz8Y&list=PL0YEPAzWUDJkk-SCmJltqXTMPTxQr6Dq5" target="_blank">
     <img height="50" src="https://i.scdn.co/image/ab67616d0000b273e30da1080d1bdfcf18f962ea">
   </a>
-<h2>Ipluton/h2>
+<h2> 𝓘𝓹𝓵𝓾𝓽𝓸𝓷 </h2>
 <a href="https://ipluton.com" target="_blank">
     <img height="50" src="https://ipluton.com/favicon/apple-icon-180x180.png"> </a>
 <h2>Craggg</h2>
