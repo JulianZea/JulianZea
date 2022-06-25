@@ -13,7 +13,7 @@
     <img height="32" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.instagram.com/cesarjulianzea/" target="_blank">
-    <img height="32" src="https://as01.epimg.net/meristation/imagenes/2022/04/13/betech/1649871138_326571_1649871350_noticia_normal_recorte1.jpg" target="_blank">
+    <img height="32" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" target="_blank">
   </a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:6946127934281666561/" target="_blank">
     <img height="32" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
