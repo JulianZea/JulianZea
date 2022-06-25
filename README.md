@@ -84,3 +84,5 @@
     <img height="50" src="https://www.epicgames.com/fortnite/es-MX/creative/docs/Images/placeholder-topic.jpg"> </a>
 <a href="https://www.fallguys.com/es-ES" target="_blank">
     <img height="50" src="https://static.wikia.nocookie.net/dei8941/images/4/49/Fall_Guys_Ultimate_Knockout_-_logo_%28Ingl%C3%A9s%2C_internacional%29.png/revision/latest?cb=20210106021056&path-prefix=es"> </a>
+<a href="https://www.minecraft.net/es-es" target="_blank">
+    <img height="50" src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/GrassBlock_HighRes.png"> </a>
