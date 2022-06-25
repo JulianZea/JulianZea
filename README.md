@@ -40,10 +40,9 @@
 
 <h2>Learning:</h2>
 <div>
-  <img alt="Mr.Robot-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="Mr.Robot-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
-  <img alt="Mr.Robot-Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="Mr.Robot-Vim" height="40" src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/vim-4.png">
-  <img alt"Mr.Robot-JavaScript" height="40" src="https://th.bing.com/th/id/R.ec910c84aeb7b40810ccb0783a29f93d?rik=BXxAbZy1sliPpQ&pid=ImgRaw&r=0&sres=1&sresct=1">
-  <img alt="Mr.Robot-Python" height="40" src="https://th.bing.com/th/id/R.b1c66d2b33344feb0f619c5804026f44?rik=Z1uP%2bdIli64kfg&pid=ImgRaw&r=0">
+  <img alt="ULTRON-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img alt="ULTRON-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
+  <img alt="ULTRON-Vim" height="40" src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/vim-4.png">
+  <img alt"ULTRON-JavaScript" height="40" src="https://th.bing.com/th/id/R.ec910c84aeb7b40810ccb0783a29f93d?rik=BXxAbZy1sliPpQ&pid=ImgRaw&r=0&sres=1&sresct=1">
+  <img alt="ULTRON-Python" height="40" src="https://th.bing.com/th/id/R.b1c66d2b33344feb0f619c5804026f44?rik=Z1uP%2bdIli64kfg&pid=ImgRaw&r=0">
 </div>
