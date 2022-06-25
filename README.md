@@ -59,3 +59,6 @@
 <a href="https://www.youtube.com/watch?v=Jo9bWzi7Xr4&list=PL0YEPAzWUDJmUupW8lXl9KDSDOvZWSKyR" target="_blank">
     <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/5e6cf2decb69aeeb2b5329a8dfe0b318.jpg">
   </a>
+<a href="https://www.youtube.com/watch?v=3bY6BlFgz8Y&list=PL0YEPAzWUDJkk-SCmJltqXTMPTxQr6Dq5" target="_blank">
+    <img height="50" src="https://i.scdn.co/image/ab67616d0000b273e30da1080d1bdfcf18f962ea">
+  </a>
