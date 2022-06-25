@@ -25,7 +25,7 @@
 
 <h2>Stats:</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianZeashow_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agerard14show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agerard14&layout=compact&theme=tokyonight">
 </div>
 
