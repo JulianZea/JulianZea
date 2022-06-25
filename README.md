@@ -47,11 +47,6 @@
 </div>
 
 <h2>Music:</h2>
-<div>
-  <a href="https://www.youtube.com/watch?v=ApDOan6yT3c&list=PLZd6iVLofN2Pe8NHXUo8gHLKBu38PjUE3" target="_blank"> </a>
-  <img alt="Vida" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Canserbero_Vida.jpg">
-  <a href="https://twitter.com/JulinZea2?t=m4NUcgnp_nat0arm-We0JQ&s=08" target="_blank">
-  <img alt="Muerte" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Canserbero_Muerte.jpg">
-  <img alt="Apa y CAN" height="50" src="https://i.scdn.co/image/ab67616d0000b273e30da1080d1bdfcf18f962ea">
-  <img alt="CANZOO" height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/5e6cf2decb69aeeb2b5329a8dfe0b318.jpg">
-</div>
+<a href="https://www.youtube.com/watch?v=ApDOan6yT3c&list=PLZd6iVLofN2Pe8NHXUo8gHLKBu38PjUE3" target="_blank">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Canserbero_Vida.jpg">
+  </a>
