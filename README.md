@@ -67,8 +67,14 @@
   </a>
 <h2>Craggg</h2>
 <a href="https://github.com/agerard14/agerard14/blob/main/README.md" target="_blank">
-    <img height="50" src="https://pbs.twimg.com/profile_images/1525999220926435329/X3Ntt2Gi_400x400.jpg">
+    <img height="50" src="https://pbs.twimg.com/profile_images/1525999220926435329/X3Ntt2Gi_400x400.jpg"> </a>
   
 <h2>Ipluton</h2>
 <a href="https://ipluton.com" target="_blank">
-    <img height="50" src="https://ipluton.com/favicon/apple-icon-180x180.png">
+    <img height="50" src="https://ipluton.com/favicon/apple-icon-180x180.png"> </a>
+
+<h2>Video juegos</h2>
+<a href="https://www.rockstargames.com/gta-v" target="_blank">
+    <img height="50" src="https://i.pinimg.com/originals/62/0c/89/620c89a5f0347147ea17036be706fc1b.png"> </a>
+<a href="https://www.rockstargames.com/gta-online" target="_blank">
+    <img height="50" src="https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k922a7212kao3/d6ad28bf10dbe824d2031f0673a59bdd9e044507.jpg"> </a>
