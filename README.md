@@ -78,3 +78,7 @@
     <img height="50" src="https://i.pinimg.com/originals/62/0c/89/620c89a5f0347147ea17036be706fc1b.png"> </a>
 <a href="https://www.rockstargames.com/gta-online" target="_blank">
     <img height="50" src="https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k922a7212kao3/d6ad28bf10dbe824d2031f0673a59bdd9e044507.jpg"> </a>
+<a href="https://www.epicgames.com/site/es-ES/home" target="_blank">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Epic_Games_logo.png"> </a>
+<a href="https://www.epicgames.com/fortnite/es-ES/home" target="_blank">
+    <img height="50" src="https://www.epicgames.com/fortnite/es-MX/creative/docs/Images/placeholder-topic.jpg"> </a>
