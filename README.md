@@ -73,7 +73,7 @@
 <a href="https://ipluton.com" target="_blank">
     <img height="50" src="https://ipluton.com/favicon/apple-icon-180x180.png"> </a>
 
-<h2>Video juegos</h2>
+<h2>𓂀 ⚡𝕍𝕚𝕕𝕖𝕠 𝕘𝕒𝕞𝕖𝕤⚡ 𓂀</h2>
 <a href="https://www.rockstargames.com/gta-v" target="_blank">
     <img height="50" src="https://i.pinimg.com/originals/62/0c/89/620c89a5f0347147ea17036be706fc1b.png"> </a>
 <a href="https://www.rockstargames.com/gta-online" target="_blank">
