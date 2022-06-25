@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="[https://th.bing.com/th/id/R.0f42b0bd89768abe59a41a2caf11b058?rik=iz3b%2fEDZaJO3BA&riu=http%3a%2f%2fimg13.deviantart.net%2f279d%2fi%2f2015%2f238%2fc%2f6%2fmr__robot_fsociety_mask_by_joegrady-d977wu2.jpg&ehk=NbFr9pjtz%2fIi%2b%2bebT08MW%2f9oLv6Dki7C3WMZ8DiXp3E%3d&risl=&pid=ImgRaw&r=0](https://www.muyseguridad.net/wp-content/uploads/2022/04/anonymous.jpg)" with="300" height="300" padding="auto" border="radius">
+  <img src="https://www.muyseguridad.net/wp-content/uploads/2022/04/anonymous.jpg" with="300" height="300" padding="auto" border="radius">
 
   <p align="center">I'm Julian Zea <strong> future Programmer</strong>
 
