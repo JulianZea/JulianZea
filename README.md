@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://sites.google.com/site/tiposdemusicaes/_/rsrc/1470787008381/canserbero/header_face.png?height=284&width=400" with="300" height="300" padding="auto" border="radius">
+  <img src="https://www.muyseguridad.net/wp-content/uploads/2022/04/anonymous.jpg" with="300" height="300" padding="auto" border="radius">
 
   <p align="center">I'm Julian Zea <strong> future Programmer</strong>
 
