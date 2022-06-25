@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <a href="https://twitter.com/AGerardQuincho" target="_blank">
+  <a href="https://twitter.com/JulinZea2?t=m4NUcgnp_nat0arm-We0JQ&s=08" target="_blank">
     <img height="32" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.instagram.com/alexandergerardquinchoparco/" target="_blank">
