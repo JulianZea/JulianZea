@@ -47,4 +47,9 @@
 </div>
 
 <h2>Music:</h2>
- <img src="https://www.elespectador.com/resizer/MrSxrRZQuublxxiTVE2PwmdfDgc=/525x350/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/35SEYGHB2NB6PCUZURALJL3XEY.jpg" with="500" height="500" padding="auto" border="radius">
+<div>
+  <img alt="Vida" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Canserbero_Vida.jpg">
+  <img alt="Muerte" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Apa y CAN" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img alt="CANZOO" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
