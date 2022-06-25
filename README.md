@@ -47,4 +47,4 @@
 </div>
 
 <h2>Music:</h2>
-<img alt="Canserbero fondo" height="400" src="https://historia-biografia.com/wp-content/uploads/2018/11/Canserbero.webp">
+<img alt="Canserbero fondo" height="400" src="https://www.elespectador.com/resizer/MrSxrRZQuublxxiTVE2PwmdfDgc=/525x350/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/35SEYGHB2NB6PCUZURALJL3XEY.jpg">
