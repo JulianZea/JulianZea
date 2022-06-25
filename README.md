@@ -4,8 +4,8 @@
 
   <p align="center">I'm Julian Zea <strong> future Programmer</strong>
 
-<p align="center">In the future I would like to help people who are passionate about programming by offering them courses on everything I have learned.</p>
-<p align="center">A wise programmer once said these beautiful words "If you can imagine it, you can program it"</p>
+<p align="center">My goal in programming career is to be able to create what I can imagine, without limits and make everything possible.</p>
+<p align="center">Canserbero "all we need is love"</p>
 
 
 <div align="center">
