@@ -49,7 +49,7 @@
 <h2>Music:</h2>
 <div>
   <img alt="Vida" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Canserbero_Vida.jpg">
-  <img alt="Muerte" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Apa y CAN" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img alt="CANZOO" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Muerte" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Canserbero_Muerte.jpg">
+  <img alt="Apa y CAN" height="40" src="https://i.scdn.co/image/ab67616d0000b273e30da1080d1bdfcf18f962ea">
+  <img alt="CANZOO" height="40" src="https://lastfm.freetls.fastly.net/i/u/300x300/5e6cf2decb69aeeb2b5329a8dfe0b318.jpg">
 </div>
