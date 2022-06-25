@@ -53,3 +53,9 @@
 <a href="https://www.youtube.com/watch?v=NA7hk1waODg&list=PLD7CF0BAAA0B7D594" target="_blank">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Canserbero_Muerte.jpg">
   </a>
+<a href="https://www.youtube.com/watch?v=PNmGNsKH1DA&list=PL0YEPAzWUDJk281IVKZ42lwDF-MoLNpKN" target="_blank">
+    <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/fc92fb544bc7f563557152986e33d364.jpg">
+  </a>
+<a href="https://www.youtube.com/watch?v=Jo9bWzi7Xr4&list=PL0YEPAzWUDJmUupW8lXl9KDSDOvZWSKyR" target="_blank">
+    <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/5e6cf2decb69aeeb2b5329a8dfe0b318.jpg">
+  </a>
