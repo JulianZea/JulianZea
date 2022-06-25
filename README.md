@@ -47,4 +47,4 @@
 </div>
 
 <h2>Music:</h2>
-<img alt="Canserbero fondo" height="1000" src="https://historia-biografia.com/wp-content/uploads/2018/11/Canserbero.webp">
+<img alt="Canserbero fondo" height="500" src="https://historia-biografia.com/wp-content/uploads/2018/11/Canserbero.webp">
