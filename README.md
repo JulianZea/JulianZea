@@ -12,13 +12,13 @@
   <a href="https://twitter.com/JulinZea2?t=m4NUcgnp_nat0arm-We0JQ&s=08" target="_blank">
     <img height="32" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/alexandergerardquinchoparco/" target="_blank">
+  <a href="https://www.instagram.com/cesarjulianzea/" target="_blank">
     <img height="32" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/a-gerard-quincho-parco-b3a99b239/" target="_blank">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6946127934281666561/" target="_blank">
     <img height="32" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://medium.com/@gerardqp14" target="_blank">
+  <a href="https://medium.com/@cesarjulianzeabravo/static-libraries-in-c-f540c96f2dcb" target="_blank">
     <img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   </a>
 </div>
