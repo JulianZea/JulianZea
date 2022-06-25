@@ -69,9 +69,7 @@
 <a href="https://github.com/agerard14/agerard14/blob/main/README.md" target="_blank">
     <img height="50" src="https://pbs.twimg.com/profile_images/1525999220926435329/X3Ntt2Gi_400x400.jpg"> </a>
   
-<h2>Ipluton/h2>
-<a href="https://ipluton.com" target="_blank">
-    <img height="50" src="https://ipluton.com/favicon/apple-icon-180x180.png"> </a>
+
 
 <h2>𓂀 ⚡𝕍𝕚𝕕𝕖𝕠 𝕘𝕒𝕞𝕖𝕤⚡ 𓂀</h2>
 <a href="https://www.rockstargames.com/gta-v" target="_blank">
