@@ -47,4 +47,4 @@
 </div>
 
 <h2>Music:</h2>
-<img alt="Canserbero fondo" height="400" src="https://www.elespectador.com/resizer/MrSxrRZQuublxxiTVE2PwmdfDgc=/525x350/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/35SEYGHB2NB6PCUZURALJL3XEY.jpg" with="500" height="800" padding="auto" border="radius">
+<img alt="Canserbero fondo" height="400" src="https://www.elespectador.com/resizer/MrSxrRZQuublxxiTVE2PwmdfDgc=/525x350/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/35SEYGHB2NB6PCUZURALJL3XEY.jpg" with="1000" height="800" padding="auto" border="radius">
