@@ -21,6 +21,9 @@
   <a href="https://medium.com/@cesarjulianzeabravo/static-libraries-in-c-f540c96f2dcb" target="_blank">
     <img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.youtube.com/channel/UCPuCeKKZq2ornYAziTYkvdA" target="_blank">
+    <img height="32" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" target="_blank">
+  </a>
 </div>
 
 <h2>Stats:</h2>
