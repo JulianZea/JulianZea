@@ -36,9 +36,15 @@
 <div>
   <a href="https://www.youtube.com/watch?v=MJkdaVFHrto&t=4539s" target="_blank">
   <img alt="ULTRON-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <img alt="ULTRON-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="ULTRON-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img alt="ULTRON-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+  <a href="https://www.youtube.com/watch?v=wZniZEbPAzk" target="_blank">
+  <img alt="ULTRON-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  
+  <a href="https://www.youtube.com/watch?v=knrc4q1S_q0&t=1608s" target="_blank">
+  <img alt="ULTRON-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
+  
+  <a href="https://www.youtube.com/watch?v=VdGzPZ31ts8" target="_blank">
+  <img alt="ULTRON-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div>
 
 <h2>𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:</h2>
