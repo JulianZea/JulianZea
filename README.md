@@ -26,13 +26,13 @@
   </a>
 </div>
 
-<h2>Stats:</h2>
+<h2>𝓢𝓽𝓪𝓽𝓼:</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianZea&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianZea&layout=compact&theme=tokyonight">
 </div>
 
-<h2>Skills:</h2>
+<h2>𝙎𝙠𝙞𝙡𝙡𝙨:</h2>
 <div>
   <img alt="ULTRON-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="ULTRON-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
