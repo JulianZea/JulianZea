@@ -34,7 +34,8 @@
 
 <h2>𝙎𝙠𝙞𝙡𝙡𝙨:</h2>
 <div>
-  <img alt="ULTRON-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://www.youtube.com/watch?v=MJkdaVFHrto&t=4539s" target="_blank">
+  <img alt="ULTRON-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <img alt="ULTRON-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="ULTRON-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img alt="ULTRON-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
