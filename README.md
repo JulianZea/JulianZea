@@ -68,10 +68,10 @@
 <h2> 𝓘𝓹𝓵𝓾𝓽𝓸𝓷 </h2>
 <a href="https://ipluton.com" target="_blank">
     <img height="50" src="https://ipluton.com/favicon/apple-icon-180x180.png"> </a>
-<h2>Craggg</h2>
+<h2>𝙲𝚛𝚊𝚐𝚔𝚜</h2>
 <a href="https://github.com/agerard14/agerard14/blob/main/README.md" target="_blank">
     <img height="50" src="https://pbs.twimg.com/profile_images/1525999220926435329/X3Ntt2Gi_400x400.jpg"> </a>
-<a href="https://github.com/agerard14/agerard14/blob/main/README.md" target="_blank">
+<a href="https://github.com/carloscm2022" target="_blank">
     <img height="50" src="https://scontent.flim15-1.fna.fbcdn.net/v/t31.18172-8/15304262_1243904645672226_3029744590826140326_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGbbK2-xiDtBU2p1LTMccnRp_5BsI58paSn_kGwjnylpHFEWn2o3Kfdj97EqsLJL3MahGsFD4wvL_TBeGtuPF1z&_nc_ohc=mofkJkZVwVkAX_egjxO&_nc_ht=scontent.flim15-1.fna&oh=00_AT_o_1EB9Mf4c-yZXs3_JPSlBTpYhx9DQm0nkciQtSsubA&oe=62DC9485"> </a>
   
 
