@@ -40,7 +40,7 @@
   <img alt="ULTRON-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<h2>Learning:</h2>
+<h2>𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:</h2>
 <div>
   <img alt="ULTRON-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img alt="ULTRON-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
