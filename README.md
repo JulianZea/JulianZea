@@ -49,7 +49,9 @@
 
 <h2>𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:</h2>
 <div>
+  <a href="https://www.youtube.com/watch?v=rEsSxd0L4GI&list=PLpOqH6AE0tNgqknxjMAJ8bX_L1a7lnBaH" target="_blank">
   <img alt="ULTRON-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </a>
   <img alt="ULTRON-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
   <img alt="ULTRON-Vim" height="40" src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/vim-4.png">
   <img alt"ULTRON-JavaScript" height="40" src="https://th.bing.com/th/id/R.ec910c84aeb7b40810ccb0783a29f93d?rik=BXxAbZy1sliPpQ&pid=ImgRaw&r=0&sres=1&sresct=1">
