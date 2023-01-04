@@ -67,12 +67,7 @@
 </div>
 
 <h2>↤↤↤↤↤ Music: ↦↦↦↦↦</h2>
-<a href="https://www.youtube.com/watch?v=ApDOan6yT3c&list=PLZd6iVLofN2Pe8NHXUo8gHLKBu38PjUE3" target="_blank">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Canserbero_Vida.jpg">
-  </a>
-<a href="https://www.youtube.com/watch?v=NA7hk1waODg&list=PLD7CF0BAAA0B7D594" target="_blank">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Canserbero_Muerte.jpg">
-  </a>
+
 <a href="https://www.youtube.com/watch?v=PNmGNsKH1DA&list=PL0YEPAzWUDJk281IVKZ42lwDF-MoLNpKN" target="_blank">
     <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/fc92fb544bc7f563557152986e33d364.jpg">
   </a>
