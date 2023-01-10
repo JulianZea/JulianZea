@@ -13,7 +13,7 @@
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png">
   </a>
   <a href="https://www.instagram.com/cesarjulianzea/" target="_blank">
-    <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" target="_blank">
+    <img height="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank">
   </a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:6946127934281666561/" target="_blank">
     <img height="32" src="https://www.marcoszuniga.com/wp-content/uploads/2020/05/Linkedin-Logo.png" target="_blank">
