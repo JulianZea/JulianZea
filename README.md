@@ -29,6 +29,10 @@
   </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julianzea&label=Profile%20views&color=0e75b6&style=flat" alt="julianzea" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianzea" alt="julianzea" /></a> </p>
+
 <h2>𝓢𝓽𝓪𝓽𝓼:</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianZea&show_icons=true&theme=tokyonight">
