@@ -24,6 +24,9 @@
   <a href="https://www.youtube.com/channel/UCPuCeKKZq2ornYAziTYkvdA" target="_blank">
     <img height="32" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" target="_blank">
   </a>
+  <a href="https://www.twitch.tv/scanzer11" target="_blank">
+    <img height="32" src="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-twitch">
+  </a>
 </div>
 
 <h2>𝓢𝓽𝓪𝓽𝓼:</h2>
