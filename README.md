@@ -25,7 +25,7 @@
     <img height="32" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" target="_blank">
   </a>
   <a href="https://www.twitch.tv/scanzer11" target="_blank">
-    <img height="32" src="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-twitch">
+    <img height="32" src="https://www.freeiconspng.com/thumbs/logo-twitch/twitch-fortnite-logo-icon-transparent-8.png">
   </a>
 </div>
 
