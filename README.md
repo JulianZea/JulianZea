@@ -27,6 +27,9 @@
   <a href="https://www.twitch.tv/scanzer11" target="_blank">
     <img height="32" src="https://www.freeiconspng.com/thumbs/logo-twitch/twitch-fortnite-logo-icon-transparent-8.png">
   </a>
+  <a href="https://discord.com/invite/QHTZBY2d" target="_blank">
+    <img height="32" src="https://img.icons8.com/nolan/512/discord-new-logo.png">
+  </a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianzea&label=Profile%20views&color=0e75b6&style=flat" alt="julianzea" /> </p>
