@@ -108,3 +108,5 @@
     <img height="50" src="https://static.wikia.nocookie.net/dei8941/images/4/49/Fall_Guys_Ultimate_Knockout_-_logo_%28Ingl%C3%A9s%2C_internacional%29.png/revision/latest?cb=20210106021056&path-prefix=es"> </a>
 <a href="https://www.minecraft.net/es-es" target="_blank">
     <img height="50" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fd/Bedrock_Edition_App_Store_icon.png/revision/latest/scale-to-width-down/250?cb=20210914141811"> </a>
+<a href="https://www.riotgames.com/es" target="_blank">
+    <img height="50" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png"> </a>
