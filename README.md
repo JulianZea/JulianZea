@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <a href="https://twitter.com/JulinZea2?t=m4NUcgnp_nat0arm-We0JQ&s=08" target="_blank">
+  <a href="https://twitter.com/Scanzer11" target="_blank">
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png">
   </a>
   <a href="https://www.instagram.com/cesarjulianzea/" target="_blank">
