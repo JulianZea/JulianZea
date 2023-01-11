@@ -38,8 +38,8 @@
 
 <h2>𝓢𝓽𝓪𝓽𝓼:</h2>
 <div align="center">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=julianZea&show_icons=true&theme=tokyonight">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianZea&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianZea&show_icons=true&theme=react&">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianZea&layout=compact&langs_count=6&theme=react">
 </div>
 
 <h2>𝙎𝙠𝙞𝙡𝙡𝙨:</h2>
