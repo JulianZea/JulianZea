@@ -36,11 +36,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianzea" alt="julianzea" /></a> </p>
 
-<h2>𝓢𝓽𝓪𝓽𝓼:</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianZea&show_icons=true&theme=react&">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianZea&layout=compact&langs_count=6&theme=react">
-</div>
 
 <h2>𝙎𝙠𝙞𝙡𝙡𝙨:</h2>
 <div>
