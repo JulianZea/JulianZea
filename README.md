@@ -1,5 +1,5 @@
 <p align="center">
-  
+  <a href="https://github.com/JulianZea" target="_blank">
   <img src="https://www.muyseguridad.net/wp-content/uploads/2022/04/anonymous.jpg" with="300" height="300" padding="auto" border="radius">
   </a>
   <p align="center">I'm Julian Zea <strong> future Programmer</strong>
@@ -30,7 +30,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianzea&label=Profile%20views&color=0e75b6&style=flat" alt="julianzea" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianzea" alt="julianzea" /></a> </p>
 
 
 <h2>𝙎𝙠𝙞𝙡𝙡𝙨:</h2>
