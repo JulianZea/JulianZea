@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/JulianZea" target="_blank">
+  
   <img src="https://www.muyseguridad.net/wp-content/uploads/2022/04/anonymous.jpg" with="300" height="300" padding="auto" border="radius">
   </a>
   <p align="center">I'm Julian Zea <strong> future Programmer</strong>
@@ -22,9 +22,6 @@
   </a>
   <a href="https://www.youtube.com/channel/UCPuCeKKZq2ornYAziTYkvdA" target="_blank">
     <img height="32" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" target="_blank">
-  </a>
-  <a href="https://www.twitch.tv/scanzer11" target="_blank">
-    <img height="32" src="https://www.freeiconspng.com/thumbs/logo-twitch/twitch-fortnite-logo-icon-transparent-8.png">
   </a>
   <a href="https://discord.com/invite/QHTZBY2d" target="_blank">
     <img height="32" src="https://img.icons8.com/nolan/512/discord-new-logo.png">
@@ -53,15 +50,7 @@
 
 <h2>𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:</h2>
 <div>
-  <a href="https://www.youtube.com/watch?v=rEsSxd0L4GI&list=PLpOqH6AE0tNgqknxjMAJ8bX_L1a7lnBaH" target="_blank">
-  <img alt="ULTRON-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </a>
-  <a href="https://www.youtube.com/watch?v=4_ub6614dwY" target="_blank">
-  <img alt="ULTRON-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
-  </a>
-  <a href="https://www.youtube.com/watch?v=TmNa4y-K5Z8" target="_blank">
-  <img alt="ULTRON-Vim" height="40" src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/vim-4.png">
-  </a>
+ 
   <a href="https://www.youtube.com/watch?v=S9ojNaeC1RI&t=3617s" target="_blank">
   <img alt"ULTRON-JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
@@ -70,31 +59,4 @@
   </a>
 </div>
 
-<h2>↤↤↤↤↤ Music: ↦↦↦↦↦</h2>
 
-<a href="https://www.youtube.com/watch?v=PNmGNsKH1DA&list=PL0YEPAzWUDJk281IVKZ42lwDF-MoLNpKN" target="_blank">
-    <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/fc92fb544bc7f563557152986e33d364.jpg">
-  </a>
-<a href="https://www.youtube.com/watch?v=Jo9bWzi7Xr4&list=PL0YEPAzWUDJmUupW8lXl9KDSDOvZWSKyR" target="_blank">
-    <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/5e6cf2decb69aeeb2b5329a8dfe0b318.jpg">
-  </a>
-<a href="https://www.youtube.com/watch?v=3bY6BlFgz8Y&list=PL0YEPAzWUDJkk-SCmJltqXTMPTxQr6Dq5" target="_blank">
-    <img height="50" src="https://i.scdn.co/image/ab67616d0000b273e30da1080d1bdfcf18f962ea">
-  </a>
-
-
-<h2>𓂀 ⚡𝕍𝕚𝕕𝕖𝕠 𝕘𝕒𝕞𝕖𝕤⚡ 𓂀</h2>
-<a href="https://www.rockstargames.com/gta-v" target="_blank">
-    <img height="50" src="https://i.pinimg.com/originals/62/0c/89/620c89a5f0347147ea17036be706fc1b.png"> </a>
-<a href="https://www.rockstargames.com/gta-online" target="_blank">
-    <img height="50" src="https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k922a7212kao3/d6ad28bf10dbe824d2031f0673a59bdd9e044507.jpg"> </a>
-<a href="https://www.epicgames.com/site/es-ES/home" target="_blank">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Epic_Games_logo.png"> </a>
-<a href="https://www.epicgames.com/fortnite/es-ES/home" target="_blank">
-    <img height="50" src="https://www.epicgames.com/fortnite/es-MX/creative/docs/Images/placeholder-topic.jpg"> </a>
-<a href="https://www.fallguys.com/es-ES" target="_blank">
-    <img height="50" src="https://static.wikia.nocookie.net/dei8941/images/4/49/Fall_Guys_Ultimate_Knockout_-_logo_%28Ingl%C3%A9s%2C_internacional%29.png/revision/latest?cb=20210106021056&path-prefix=es"> </a>
-<a href="https://www.minecraft.net/es-es" target="_blank">
-    <img height="50" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fd/Bedrock_Edition_App_Store_icon.png/revision/latest/scale-to-width-down/250?cb=20210914141811"> </a>
-<a href="https://www.riotgames.com/es" target="_blank">
-    <img height="50" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png"> </a>
