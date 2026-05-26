@@ -5,7 +5,6 @@
   <p align="center">I'm Julian Zea <strong> future Programmer</strong>
 
 <p align="center">My goal in programming career is to be able to create what I can imagine, without limits and make everything possible.</p>
-<p align="center">Canserbero "all we need is love"</p>
 
 
 <div align="center">
